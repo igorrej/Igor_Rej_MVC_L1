@@ -96,3 +96,4 @@ C:\Users\Lidka\source\repos\MvcMovie\MvcMovie\obj\Debug\net9.0\refint\MvcMovie.d
 C:\Users\Lidka\source\repos\MvcMovie\MvcMovie\obj\Debug\net9.0\MvcMovie.pdb
 C:\Users\Lidka\source\repos\MvcMovie\MvcMovie\obj\Debug\net9.0\MvcMovie.genruntimeconfig.cache
 C:\Users\Lidka\source\repos\MvcMovie\MvcMovie\obj\Debug\net9.0\ref\MvcMovie.dll
+C:\Users\Lidka\source\repos\MvcMovie\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json
